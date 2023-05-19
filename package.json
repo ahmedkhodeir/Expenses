@@ -1,6 +1,6 @@
 {
   "name": "expenses",
-  "homepage":"https//ahmedkhodeir.github.io/Expenses",
+  "homepage": "http://ahmedkhodeir.github.io/Expenses",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
